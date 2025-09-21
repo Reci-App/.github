@@ -1,6 +1,6 @@
 # Hello! 👋
 
-## Welcome to the Reci Org.
+## Welcome to the Reci Org
 
 Reci is a social recipe-sharing app where users can post recipes, review what they’ve cooked, and follow friends to stay updated on what’s hot in their kitchens.
 
@@ -8,7 +8,7 @@ Reci is a social recipe-sharing app where users can post recipes, review what th
 
 We are currently working on a re-write of Reci, which we will deploy so that everyone can have a taste of some of the awesome things we've been cooking. We are passionate about what we're building, and cannot wait to share it with you!
 
-#### Original Prototype
+### Original Prototype:
 
 https://github.com/SuperZooper3/reci
 
