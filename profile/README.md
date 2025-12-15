@@ -6,7 +6,7 @@ Reci is a social recipe-sharing app where users can post recipes, review what th
 
 ## Status
 
-We are currently working on a re-write of Reci, which we will deploy so that everyone can have a taste of some of the awesome things we've been cooking. We are passionate about what we're building, and cannot wait to share it with you!
+Our repo is private, and we are currently working on a re-write of Reci, which we will deploy so that everyone can have a taste of some of the awesome things we've been cooking. We are passionate about what we're building, and cannot wait to share it with you!
 
 ### Original Prototype:
 
