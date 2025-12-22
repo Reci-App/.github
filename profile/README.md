@@ -2,11 +2,11 @@
 
 ## Welcome to the Reci Org
 
-Reci is a social recipe-sharing app where users can post recipes, review what they’ve cooked, and follow friends to stay updated on what’s hot in their kitchens.
+Reci is a social recipe-sharing app where users can post cooks and follow friends to stay updated on what’s hot in their kitchens.
 
 ## Status
 
-Our repo is private, and we are currently working on a re-write of Reci, which we will deploy so that everyone can have a taste of some of the awesome things we've been cooking. We are passionate about what we're building, and cannot wait to share it with you!
+Reci may not be the name, but the idea lives on at [cookd.ca](https://cookd.ca/). Almost ready.....
 
 ### Original Prototype:
 
