@@ -8,6 +8,10 @@ Reci is a social recipe-sharing app where users can post cooks and follow friend
 
 Reci may not be the name, but the idea lives on at [cookd.ca](https://cookd.ca/). Almost ready.....
 
+### Private Beta
+
+If you want to see the private beta version of Cookd, which is currently live but under a different url, please contact one of us.
+
 ### Original Prototype:
 
 https://github.com/SuperZooper3/reci
