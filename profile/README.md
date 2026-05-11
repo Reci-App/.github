@@ -1,16 +1,12 @@
 # Hello! 👋
 
-## Welcome to the Reci Org
+## Welcome to the Cookd Org
 
-Reci is a social recipe-sharing app where users can post cooks and follow friends to stay updated on what’s hot in their kitchens.
+Cookd is a social recipe-sharing app where users can post cooks and follow friends to stay updated on what’s hot in their kitchens.
 
 ## Status
 
-Reci may not be the name, but the idea lives on at [cookd.ca](https://cookd.ca/). Almost ready.....
-
-### Private Beta
-
-If you want to see the private beta version of Cookd, which is currently live but under a different url, please contact one of us.
+See Cookd (previously called Reci), at [cookd.ca](https://cookd.ca/)
 
 ### Original Prototype:
 
